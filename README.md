@@ -14,11 +14,11 @@ Repository Contents
 * **/hardware** - Eagle PCB layout files
 * **/Production Files** - Files to support SparkFun production
 * **/Fritzing** - Fritzing part for the BC127 Breakout Board
-* **/Arduino** - Arduino library and examples for the BC127 modules
+* **/Libraries** - library and examples for the BC127 modules
 
 License Information
 -------------------
 
-All contents of this repository are released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
+All contents of this repository are released under [Creative Commons Share-alike 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 
 Authors: Mike Hord @ SparkFun Electonics
