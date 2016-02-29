@@ -16,6 +16,10 @@ Repository Contents
 * **/Fritzing** - Fritzing part for the BC127 Breakout Board
 * **/Libraries** - library and examples for the BC127 modules
 
+Documentation
+--------------
+* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products.
+
 License Information
 -------------------
 
