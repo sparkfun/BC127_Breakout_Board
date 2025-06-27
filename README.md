@@ -3,7 +3,7 @@ BC127 Breakout Board
 
 General purpose breakout board for the BC127 module by BlueCreation.
 
-[![BC127 Breakout Board](https://cdn.sparkfun.com/assets/parts/3/8/3/9/09814-01.jpg)  
+[![BC127 Breakout Board](https://cdn.sparkfun.com/assets/parts/8/3/8/7/11927-01.jpg)  
 *BC127 Breakout Board*](https://www.sparkfun.com/products/11927)
 
 Design files and firmware files for the [BC127 Breakout Board](https://www.sparkfun.com/products/11927).
